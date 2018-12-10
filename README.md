@@ -1,7 +1,7 @@
 # InterviewPreps
 Interview Prep
 
-TODO
+## TODO
 - Javascript Principles
   - How does Javascript Engine work
     - Javascript Event Loop
@@ -12,3 +12,5 @@ TODO
 - ES6 Features
 - Simple Algorithms in JS
 - Typescript Basics
+- CSS Methodologies
+- Front End Basics
